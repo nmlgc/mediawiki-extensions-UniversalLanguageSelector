@@ -7,3 +7,5 @@ node_modules/
 composer.lock
 vendor/
 .eslintcache
+
+data/LanguageNameSearchData.php
